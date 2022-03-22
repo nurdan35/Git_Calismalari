@@ -7,4 +7,6 @@ public class HelloGit {
         System.out.println("2. satir calismasi");
     }
 }
+// bu satir github uzerinde editlendi
+
 // nurdan bu satira kod ekledi, LOCAL den!!
