@@ -7,3 +7,4 @@ public class HelloGit {
         System.out.println("2. satir calismasi");
     }
 }
+// bu satir github uzerinde editlendi
