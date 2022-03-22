@@ -7,3 +7,4 @@ public class HelloGit {
         System.out.println("2. satir calismasi");
     }
 }
+// nurdan bu satira kod ekledi, LOCAL den!!
